@@ -6,7 +6,7 @@ This github contains the class materials for LS 88-3 Genomics and Data Science
 If you have trouble obtaining some of the readings via the links, you can find the pdfs on the [bcourses site](https://bcourses.berkeley.edu/courses/1455335/files).  
 
 
-##Calendar (subject to change)
+## Calendar (subject to change)
 Date  |  Lecture  |   Notes
 ------- | :-------------------------- | :------------------------
 Aug 30 | Intro 1: Let's start at the very beginning | Reading: [Mystery of the devious defecator](http://www.nytimes.com/2015/06/02/health/devious-defecator-case-tests-genetics-law.html?_r=0)
@@ -24,7 +24,7 @@ Nov 15 | Forensics 3: Historical samples | [Brian Johnsrud](http://www.brianjohn
 Nov 22 | Group presentations | 
 Nov 29 | Group presentations | Due date for project report and code
 
-##Assessment
+## Assessment
 Component  |  % of grade | Notes  
  --- | --- | ---
 Participation | 25% | 
